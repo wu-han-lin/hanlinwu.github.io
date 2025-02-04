@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hanlin Wu"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a first year PhD student at Institute of AI Industry Research (AIR), Tsinghua University"
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -34,9 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
