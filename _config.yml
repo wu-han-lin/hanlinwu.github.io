@@ -15,7 +15,7 @@ name                     : &name "Hanlin Wu"
 description              : &description "personal description"
 url                      : https://wu-han-lin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wu-han-lin.github.io"
+repository               : "hanlinwu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,10 +28,10 @@ author:
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "leon_bit@163.com" 
+  email            : "leon_bit at 163.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   semantic         : # URL
   researchgate     : # URL
